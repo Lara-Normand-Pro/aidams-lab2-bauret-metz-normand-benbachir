@@ -1,0 +1,14 @@
+pandas>=2.0
+numpy
+openpyxl
+scikit-learn>=1.4
+scipy
+pandera>=0.24
+pyyaml
+matplotlib
+seaborn
+mlflow>=3.0
+optuna>=4.0
+optuna-integration
+joblib
+ipykernel
